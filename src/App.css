@@ -1,5 +1,12 @@
+body{
+  border-radius: 68px;
+  background: #342323;
+  box-shadow:  30px 30px 59px #2c1e1e,
+             -30px -30px 59px #3c2828;
+}
 .App {
   text-align: center;
+  /* background-color: rgb(20, 23, 243); */
 }
 
 .App-logo {
@@ -14,7 +21,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #320d53;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
